@@ -1,4 +1,4 @@
-#Task Scheduler Bash Script
+# Task Scheduler Bash Script
 
 Simple Task Scheduler bash script created to add, list, and mark your tasks as complete. 
 
